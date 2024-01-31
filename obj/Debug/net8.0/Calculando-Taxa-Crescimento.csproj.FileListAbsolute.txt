@@ -1,0 +1,15 @@
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\bin\Debug\net8.0\Calculando-Taxa-Crescimento.exe
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\bin\Debug\net8.0\Calculando-Taxa-Crescimento.deps.json
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\bin\Debug\net8.0\Calculando-Taxa-Crescimento.runtimeconfig.json
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\bin\Debug\net8.0\Calculando-Taxa-Crescimento.dll
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\bin\Debug\net8.0\Calculando-Taxa-Crescimento.pdb
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.AssemblyInfoInputs.cache
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.AssemblyInfo.cs
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.csproj.CoreCompileInputs.cache
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.sourcelink.json
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.dll
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\refint\Calculando-Taxa-Crescimento.dll
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.pdb
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\Calculando-Taxa-Crescimento.genruntimeconfig.cache
+C:\Users\joaob\OneDrive\Documentos\GitHub\Calculando-Taxa-Crescimento\obj\Debug\net8.0\ref\Calculando-Taxa-Crescimento.dll

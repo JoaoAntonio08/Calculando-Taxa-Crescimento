@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculando-Taxa-Crescimento/1.0.0": {
+        "runtime": {
+          "Calculando-Taxa-Crescimento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculando-Taxa-Crescimento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
